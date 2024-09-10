@@ -1,0 +1,127 @@
+header{
+    font-size: 50px;
+    background: linear-gradient(to left, #e8a778, #d27715);
+    color: white;
+    padding:50px;
+    font-style: normal;
+    font-family:arial;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow:1px 1px black;
+
+}
+
+body{
+
+    background:#DAC0A3;
+}
+
+main{
+    display: flex;
+}
+
+.a{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin:40px 90px;
+    text-align: center;
+
+}
+img{
+    width:260px;
+    height: 250px;
+    padding:20px;
+}
+.a b{
+    font-family: sans-serif;
+    text-decoration: underline;
+
+}
+.b{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin: 40px 90px;
+    text-align: center;
+
+}
+.b b{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+.c{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin: 40px 90px;
+    text-align: center;
+}
+
+.c b{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+
+section{
+    display: flex;
+
+}
+
+.d{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin: 40px 90px;
+    text-align: center;
+}
+
+.d b{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+.e{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin: 40px 90px;
+    text-align: center;
+
+}
+
+.e b{
+      font-family: sans-serif;
+      text-decoration: underline;
+}
+
+.f{
+    background-color: white;
+    width: 300px;
+    height:350px;
+    margin: 40px 90px;
+    text-align: center;
+}
+
+.f b{
+
+    font-family: sans-serif;
+    text-decoration: underline;
+
+}
+
+
+footer{
+    background:linear-gradient(to left, #9A3B3B,#C38154);
+    color: white;
+    font-size:15px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    padding:50px;
+}
+
+   
